@@ -1,2 +1,6 @@
 # Bangla-Handwritten-Character-Recognition-and-Sentence-generation
-Basic machine learning project on
+
+
+# Acknowledgement
+
+https://github.com/mehedihasanbijoy/Bangla-Handwritten-Character-Recognition
